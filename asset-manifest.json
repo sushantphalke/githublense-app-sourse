@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/githublense/static/css/main.2e19cca1.chunk.css",
+    "main.js": "/githublense/static/js/main.ea2c63f9.chunk.js",
+    "main.js.map": "/githublense/static/js/main.ea2c63f9.chunk.js.map",
+    "runtime-main.js": "/githublense/static/js/runtime-main.9ae20e31.js",
+    "runtime-main.js.map": "/githublense/static/js/runtime-main.9ae20e31.js.map",
+    "static/js/2.be9c55cf.chunk.js": "/githublense/static/js/2.be9c55cf.chunk.js",
+    "static/js/2.be9c55cf.chunk.js.map": "/githublense/static/js/2.be9c55cf.chunk.js.map",
+    "static/js/3.b580c583.chunk.js": "/githublense/static/js/3.b580c583.chunk.js",
+    "static/js/3.b580c583.chunk.js.map": "/githublense/static/js/3.b580c583.chunk.js.map",
+    "index.html": "/githublense/index.html",
+    "static/css/main.2e19cca1.chunk.css.map": "/githublense/static/css/main.2e19cca1.chunk.css.map",
+    "static/js/2.be9c55cf.chunk.js.LICENSE.txt": "/githublense/static/js/2.be9c55cf.chunk.js.LICENSE.txt",
+    "static/media/search34.29e3b455.gif": "/githublense/static/media/search34.29e3b455.gif",
+    "static/media/spinner34.5b35cef0.gif": "/githublense/static/media/spinner34.5b35cef0.gif",
+    "static/media/sushant_photo.123bce68.jpg": "/githublense/static/media/sushant_photo.123bce68.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9ae20e31.js",
+    "static/js/2.be9c55cf.chunk.js",
+    "static/css/main.2e19cca1.chunk.css",
+    "static/js/main.ea2c63f9.chunk.js"
+  ]
+}
